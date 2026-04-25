@@ -1,7 +1,3 @@
-# Danny's_Diner_SQL_Analysis
-SQL case study analysis using PostgreSQL to derive customer insights, spending patterns, and loyalty program performance for Danny's Diner.
-# Danny's Diner SQL Case Study 🍜
-
 ## 📌 Project Overview
 This project is part of the **8 Week SQL Challenge**. It involves analyzing a restaurant's customer data to derive insights into visitor patterns, spending habits, and loyalty program effectiveness.
 
