@@ -20,5 +20,4 @@ This project is part of the **8 Week SQL Challenge**. It involves analyzing a re
 * **Customer A:** Earned **1370** total points by the end of January.
 * **Customer B:** Earned **940** total points by the end of January.
 
----
-**Contact:** Bulbul Kumari | Final Year BCA Student | Noida, UP
+
